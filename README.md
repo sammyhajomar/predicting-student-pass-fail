@@ -17,3 +17,11 @@ The Student Performance Dataset was sourced from the [UCI Machine Learning Repos
 The dataset can be found in the current repository under /student/student-por.csv and has been split into:
 - student-por-test.csv
 - student-por-train.csv
+
+## Steps Taken
+1. Loading the data
+2. Describing the data
+3. Exploring the data
+4. Building the models
+5. Evaluating the performance of the models
+6. Describing and interpreting the models
