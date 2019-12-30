@@ -11,7 +11,7 @@ To build classification models (logisitic regression & decision tree) that help 
 5. Evaluating the performance of the models
 6. Describing and interpreting the models
 
-**The Python packages used for this project:**
+## The Python Packages Used
 - scikit-learn 
 - pandas
 - NumPy
