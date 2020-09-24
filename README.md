@@ -1,7 +1,7 @@
 # Predicting Student Pass Fail using Classification Models
 Note: This project was created in Jupyter Notebook for Data Visualization purposes
 ## Goal of the Project
-To build classification models (logisitic regression & decision tree) that help predict if a student will pass or fail depending on multiple categories that apply to each student. Our dataset is comprised of 649 students (rows) and 33 categories (columns) for each student. We will be splitting the dataset into a testing and a training dataset to avoid any influence or bias from the training dataset onto the testing dataset when the models are being trained. 
+To build classification models (logisitic regression & decision tree) that help predict if a student will pass or fail depending on multiple features/attributes that apply to each student. Our dataset is comprised of 649 students (rows) and 33 categories (columns) for each student. We will be splitting the dataset into a testing and a training dataset to avoid any influence or bias from the training dataset onto the testing dataset when the models are being trained. 
 
 ## Steps Taken
 1. Loading the data
